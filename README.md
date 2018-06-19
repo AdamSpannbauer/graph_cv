@@ -1,7 +1,7 @@
 # graph_cv
 
 ## input
-![](numbered_graph.png)
+![](input.png)
 
 ## output
 ![](output.png)
