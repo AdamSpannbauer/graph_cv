@@ -1,7 +1,9 @@
-# graph_cv
+# Graph CV
 
-## input
+An overfit set of image processing instructions to detect the nodes and edges in the below graph.
+
+## Input
 ![](input.png)
 
-## output
+## Output
 ![](output.png)
